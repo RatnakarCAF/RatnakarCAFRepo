@@ -1,0 +1,20 @@
+TYPE SCRIPT
+___________
+
+TypeScript is the SUPER SET of JavaScript.
+
+INSTALL
+________
+
+1. Node JS
+2. JavaScript Compiler
+3. Any IDE 
+	i.   VS Code, 
+	ii.  Notepad++, 
+	iii. Subline...etc)
+
+	1.Node JS
+	----------
+	go to   https://code.visualstudio.com/download#:~:text=Visual%20Studio%20Code%20is%20a%20free%20and%20open
+
+	
